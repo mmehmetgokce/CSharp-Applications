@@ -1,4 +1,4 @@
-# C#-Applications
+# C# Applications
 
 I created this repository to showcase various Windows Forms and Console-based application examples that I developed using basic and advanced features of the C# programming language, reinforcing object-oriented programming (OOP) principles.
 
